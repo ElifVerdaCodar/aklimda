@@ -1,5 +1,5 @@
 {
-  "name": "parcel-starter",
+  "name": "aklimda",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElifVerdaCodar/parcel-starter.git"
+    "url": "git+https://github.com/ElifVerdaCodar/aklimda.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ElifVerdaCodar/parcel-starter/issues"
+    "url": "https://github.com/ElifVerdaCodar/aklimda/issues"
   },
-  "homepage": "https://github.com/ElifVerdaCodar/parcel-starter#readme",
+  "homepage": "https://github.com/ElifVerdaCodar/aklimda#readme",
   "devDependencies": {
     "typescript": "^4.3.4"
   }
