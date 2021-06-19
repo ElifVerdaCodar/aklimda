@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --open --no-cache"
+    "start": "parcel index.html --open --no-cache",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
