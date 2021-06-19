@@ -1,4 +1,4 @@
-// TODO: https://www.w3schools.com/js/js_functions.asp
+// OKU: https://www.w3schools.com/js/js_functions.asp
 function oyunuBaslat(adim) {
   // OKU: https://www.w3schools.com/js/js_variables.asp
   var dogruTahminler = 0;
