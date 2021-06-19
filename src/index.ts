@@ -37,8 +37,12 @@ Yanlış Tahminler:${yanlisTahminler}
   }
 }
 
+// index.html deki btnBaslat isimli buton elementini btnBaslat adında bir değişkene ata
 var btnBaslat = document.getElementById("btnBaslat");
+// btnBaslat değişkeninde tutulan bu butona tıklanınca
 btnBaslat.addEventListener("click", function () {
+  // txtAdim isimli html elementini bul ve value değerini adim isimli bir değişkene ata
   var adim = (document.getElementById("txtAdim") as HTMLInputElement).value;
+  // oyunuBaslat isimli fonksiyona adim isimli değişkeni gönder. (numerik çevirme yaparak)
   oyunuBaslat(Number(adim));
 });
